@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.canva.com/design/DAFO8lIxuiE/BvYU2H70x_8wnSrPE8YMzA/edit?utm_content=DAFO8lIxuiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
