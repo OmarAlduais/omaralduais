@@ -1,7 +1,7 @@
 ![This is an image](https://github.com/OmarAlduais/omaralduais/blob/main/assets/images/Yellow%20Motivational%20Web%20Developer%20Linkedin%20Banner%20(4).png)
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am a full-stack developer, German teacher and translator. Enjoy investing time in creative work. 
+I am a full-stack developer, German teacher and translator. I deeply enjoy programming because it offers endless possibilities, to develop simple ideas and turn them into unique and attractive projects.
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
