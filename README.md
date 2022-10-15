@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](https://drive.google.com/file/d/1lZcYtXx-HwgsKJ_HgBozGEB8H650_HWH/view?usp=sharing)
+![This is an image](Yellow Motivational Web Developer Linkedin Banner (4).png)
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
