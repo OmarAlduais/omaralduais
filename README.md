@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://www.canva.com/design/DAFO8lIxuiE/BvYU2H70x_8wnSrPE8YMzA/edit?utm_content=DAFO8lIxuiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...something
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
