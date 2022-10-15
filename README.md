@@ -1,6 +1,6 @@
 ![This is an image](https://github.com/OmarAlduais/omaralduais/blob/main/assets/images/Yellow%20Motivational%20Web%20Developer%20Linkedin%20Banner%20(4).png)
 
-### Hi there ![This is an image](<iframe src="https://giphy.com/embed/jKkqqRlfzajljKVV5p" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Adbros-jKkqqRlfzajljKVV5p">via GIPHY</a></p>)
+### Hi there ![This is an image](https://giphy.com/embed/jKkqqRlfzajljKVV5p)
 I am a full-stack developer, German teacher and translator. Enjoy investing time in creative work. 
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
