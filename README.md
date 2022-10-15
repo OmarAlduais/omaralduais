@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](https://www.canva.com/design/DAFO8lIxuiE/BvYU2H70x_8wnSrPE8YMzA/edit?utm_content=DAFO8lIxuiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![This is an image](https://drive.google.com/file/d/1lZcYtXx-HwgsKJ_HgBozGEB8H650_HWH/view?usp=sharing)
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
