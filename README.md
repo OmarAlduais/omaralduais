@@ -1,6 +1,6 @@
 ![This is an image](https://github.com/OmarAlduais/omaralduais/blob/main/assets/images/Yellow%20Motivational%20Web%20Developer%20Linkedin%20Banner%20(4).png)
 
-### Hi there :wave:
+### Hi there U+1F604
 I am a full-stack developer, German teacher and translator. Enjoy investing time in creative work. 
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
