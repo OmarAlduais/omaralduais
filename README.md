@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](Yellow Motivational Web Developer Linkedin Banner (4).png)
+![This is an image](/assets/images/Yellow Motivational Web Developer Linkedin Banner (4).png)
 <!--
 **OmarAlduais/omaralduais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
