@@ -34,7 +34,7 @@ I am a full-stack developer, German teacher and translator. I deeply enjoy progr
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlduais)](https://github.com/OmarAlduais/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlduais)](https://github.com/OmarAlduais/github-readme-stats) -->
  
 [![Github status](https://github-readme-stats.vercel.app/api?username=OmarAlduais&count_private=true&show_icons=true&theme=radical)
  
