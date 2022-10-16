@@ -39,10 +39,3 @@ I am a full-stack developer, German teacher and translator. I deeply enjoy progr
 [![Github status](https://github-readme-stats.vercel.app/api?username=OmarAlduais&count_private=true&show_icons=true&theme=radical)
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlduais&show_icons=true&theme=radical)
-
-
-
-
-
-
-
