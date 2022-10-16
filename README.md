@@ -26,7 +26,8 @@ I am a full-stack developer, German teacher and translator. I deeply enjoy progr
       <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="55" height="55"/>
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ex" width="55" height="55"/> 
+<!--       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ex" color="green" width="55" height="55"/> -->
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
