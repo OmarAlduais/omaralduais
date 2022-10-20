@@ -1,7 +1,8 @@
 ![This is an image](https://github.com/OmarAlduais/omaralduais/blob/main/assets/images/Yellow%20Motivational%20Web%20Developer%20Linkedin%20Banner%20(4).png)
 
-[![Gmail Badge](https://img.shields.io/badge/-omar.a.alduais-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omar.a.alduais@gmail.com)](mailto:omar.a.alduais@gmail.com) 
- [![Linkedin Badge](https://img.shields.io/badge/-omaralduais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omaralduais/)](https://www.linkedin.com/in/omaralduais/)
+[![Gmail Badge](https://img.shields.io/badge/-omar.a.alduais-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:omar.a.alduais@gmail.com)](mailto:omar.a.alduais@gmail.com) 
+ [![Linkedin Badge](https://img.shields.io/badge/-omaralduais-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omaralduais/)](https://www.linkedin.com/in/omaralduais/)
+ [![Profile Badge](https://img.shields.io/badge/-omaralduais-yellow?style=flat-circle&logo=Opera&logoColor=white&link=https://https://omar-al-duais.netlify.app/)](https://omar-al-duais.netlify.app/)
  
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I am a full-stack developer, German teacher and translator. I deeply enjoy programming because it offers endless possibilities, to develop simple ideas and turn them into unique and attractive projects.
